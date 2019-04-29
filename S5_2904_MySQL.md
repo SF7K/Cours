@@ -2,11 +2,11 @@ Liste des fonctions ineternes à PHP :
 
 https://www.php.net/manual/fr/indexes.functions.php  
 
-
-///////////////////////////////////////////////////////  
+###
+########################################################  
 Partie MySQL  
                  ᕕ( ᐛ )ᕗ  
-///////////////////////////////////////////////////////  
+########################################################   
 
 Se connecter sur son MySQL: mysql -u<nom_du_user> -p<password_du_user>  
 Voir les databases: show databases;  
