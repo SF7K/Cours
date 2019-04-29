@@ -2,7 +2,7 @@ Liste des fonctions ineternes à PHP :
 
 https://www.php.net/manual/fr/indexes.functions.php  
 
-###
+  
 ########################################################  
 Partie MySQL  
                  ᕕ( ᐛ )ᕗ  
